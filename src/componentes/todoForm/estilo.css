@@ -1,0 +1,12 @@
+
+.todo__form__Estilo{
+    padding-bottom: 1.5rem;
+}
+
+input, select {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #DDD;
+    width: 100%;
+}
+

@@ -1,0 +1,42 @@
+button{
+    background-color: #333974;
+    color: #FFF;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    opacity: 0.8;
+    transition: 0.3s;
+    margin-right: 4px;
+}
+button:hover{
+    opacity: 1;
+
+}
+
+.completar{
+    background-color: #5CB85C;
+}
+.favoritar{
+    background-color: #FE9000 ;
+}
+.apagar{
+    background-color: #D9534F;
+}
+
+.todo__lista__estilo{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #555;
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #FFF;
+    box-shadow: 0 0 10px (0,0,0,0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 12px;
+}

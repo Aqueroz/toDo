@@ -1,0 +1,16 @@
+.filtro__estilo{
+    border-bottom: 1px solid #555;
+    margin-bottom: 20px;
+        
+}
+
+.filtro__opcoes__estilo{
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.filtro__opcoes__estilo div{
+    /* posicionamento no espaço dentro do container */
+    flex: 1 1 0 ;
+}
